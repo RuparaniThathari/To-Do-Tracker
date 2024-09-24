@@ -1,6 +1,3 @@
-# SE Capstone Project
-
-
 
 ## Getting started
 
