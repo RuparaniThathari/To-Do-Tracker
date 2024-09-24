@@ -1,0 +1,2 @@
+# To Do Tracker
+ In today's fast-paced world, staying organized and on top of our tasks can feel overwhelming. Whether you're a working professional managing various projects or a busy parent juggling household tasks, staying organized is crucial. Imagine a week filled with deadlines, meetings, and errands  With the To-Do Tracker, you can effortlessly create task lists, categorize priorities, and ensure you stay on top of everything. It's like having a personal assistant to keep you focused and productive throughout your day.
